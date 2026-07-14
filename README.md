@@ -1,6 +1,6 @@
 # AG News Classification — TF-IDF + Classical NLP
 
-**Goal:** Classify news headlines/articles into 4 categories (World, Sports, Business, Sci/Tech) using classical NLP techniques (no deep learning).
+**Goal:** Classify news headlines/articles into 4 categories (World, Sports, Business, Sci/Tech) using classical NLP techniques.
 
 **Objectives:**
 - Explore the dataset and class distribution.
